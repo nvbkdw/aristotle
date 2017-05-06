@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  creator: one
+  create_since: 2017-04-08
+  administrator: one
+  description: MyText
+  member_container: one
+  privacy: false
+
+two:
+  name: MyText
+  creator: two
+  create_since: 2017-04-08
+  administrator: two
+  description: MyText
+  member_container: two
+  privacy: false
