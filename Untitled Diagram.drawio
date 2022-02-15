@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T06:21:07.493Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="fV1TZEDHm_7PjE_wjE-k" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T06:22:19.078Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="NvuXVg3h6HJtAQ2aVsfA" version="16.5.6" type="github">
   <diagram id="EUEqFlCZV4Rz1TmMoUkc" name="Page-1">
-    <mxGraphModel dx="2704" dy="1156" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3013" dy="1348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -226,10 +226,10 @@
             <mxPoint x="320" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjX0TIYur_jvpMQG9Fae-62" value="Stream initiation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zjX0TIYur_jvpMQG9Fae-62" value="Stream &lt;br&gt;initiation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-520" y="265" width="135" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zjX0TIYur_jvpMQG9Fae-63" value="Stream initiation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="zjX0TIYur_jvpMQG9Fae-63" value="Real-time stream" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-520" y="500" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zjX0TIYur_jvpMQG9Fae-64" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;fontColor=#000000;strokeColor=#000000;strokeWidth=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zjX0TIYur_jvpMQG9Fae-28" target="zjX0TIYur_jvpMQG9Fae-65">
