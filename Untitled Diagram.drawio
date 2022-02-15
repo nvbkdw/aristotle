@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T06:30:38.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="BDpe7PyZ-N-17NjAcHSK" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-15T06:31:14.812Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36" etag="N-vAFfl7Hv4ydQEkqqGh" version="16.5.6" type="github">
   <diagram id="EUEqFlCZV4Rz1TmMoUkc" name="Page-1">
-    <mxGraphModel dx="3734" dy="2898" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2847" dy="2345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -291,6 +291,12 @@
         </mxCell>
         <mxCell id="zjX0TIYur_jvpMQG9Fae-83" value="&lt;span id=&quot;docs-internal-guid-1835c72e-7fff-a9db-5ae2-24a109cde7ad&quot; style=&quot;font-size: 24px;&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt; font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-family: impact; background-color: transparent; font-weight: 700; vertical-align: baseline;&quot;&gt;Real time streaming transcription service&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 24px;&quot;&gt;&lt;span style=&quot;font-size: 24px; font-family: impact; background-color: transparent; font-weight: 700; vertical-align: baseline;&quot;&gt;&lt;br style=&quot;font-size: 24px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-345" y="-70" width="480" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zjX0TIYur_jvpMQG9Fae-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=24;fontColor=#000000;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zjX0TIYur_jvpMQG9Fae-85" value="&lt;span id=&quot;docs-internal-guid-1835c72e-7fff-a9db-5ae2-24a109cde7ad&quot; style=&quot;font-size: 24px&quot;&gt;&lt;p dir=&quot;ltr&quot; style=&quot;line-height: 1.2 ; margin-top: 0pt ; margin-bottom: 0pt ; font-size: 24px&quot;&gt;&lt;span style=&quot;font-size: 24px ; font-family: &amp;#34;impact&amp;#34; ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;Unified control plane for ML platform&lt;/span&gt;&lt;/p&gt;&lt;div style=&quot;font-size: 24px&quot;&gt;&lt;span style=&quot;font-size: 24px ; font-family: &amp;#34;impact&amp;#34; ; background-color: transparent ; font-weight: 700 ; vertical-align: baseline&quot;&gt;&lt;br style=&quot;font-size: 24px&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="950" width="480" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
