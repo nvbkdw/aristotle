@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T00:03:38.475Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="aOmQAvFYvFgAFAnIAjXN" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T00:03:45.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="_Y2AZzBXPqO5A6HumVph" version="16.5.6" type="github">
   <diagram id="EUEqFlCZV4Rz1TmMoUkc" name="Page-1">
     <mxGraphModel dx="2887" dy="2199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -535,7 +535,7 @@
             <mxPoint x="586" y="1520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uI_x88CFpGHV0XNmo0e3-8" value="Unified Control Plane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=31;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="uI_x88CFpGHV0XNmo0e3-8" value="Unified Control Plane" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="80" y="2170" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DsPuH-aFZ0U-3nG5a9f1-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
