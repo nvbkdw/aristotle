@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T00:03:45.373Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="_Y2AZzBXPqO5A6HumVph" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T00:04:28.461Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="NUvHA5QWTQom6LFr97ch" version="16.5.6" type="github">
   <diagram id="EUEqFlCZV4Rz1TmMoUkc" name="Page-1">
-    <mxGraphModel dx="2887" dy="2199" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2090" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,7 +337,7 @@
             <mxPoint x="160" y="1605" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zjX0TIYur_jvpMQG9Fae-90" value="API protobuf" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="zjX0TIYur_jvpMQG9Fae-90" value="Schema (protobuf)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontSize=24;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="165" y="1510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zjX0TIYur_jvpMQG9Fae-92" value="code auto-gen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontColor=#000000;" parent="1" vertex="1">
